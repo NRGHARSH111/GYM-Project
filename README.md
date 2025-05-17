@@ -8,5 +8,5 @@
 - Membership plans and pricing
 - Contact form
 
-- link:-
+- link:-https://nrgharsh111.github.io/GYM-Project/
 This project demonstrates practical front-end development skills .
